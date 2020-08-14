@@ -14,5 +14,6 @@
 # day8 and day9
 <b> Start problem solving in python in hackerrank and got first star and classify MNIST_digit data set with k-nearest neighbour algorthim </b>
 
-
+# day10
+<b> Learning ansible ec2 module launch ec2 instances with ansiblle-playbook.learn about ansible vault.    </b>
 

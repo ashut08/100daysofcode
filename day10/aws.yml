@@ -1,0 +1,18 @@
+- hosts: localhost
+  vars_files:
+          - secure.yml
+  tasks:
+  - name: launch ec2 instances
+    ec2:
+       
+       instance_type: "t2.micro"
+       image: "ami-0ebc1ac48dfd14136"
+       wait: yes
+       count: 1
+       region: ap-south-1
+       state: present
+       vpc_subnet_id: "subnet-b10d37d9"
+       group_id: "sg-03a24768acdface9d"
+       aws_access_key: "{{myuser}}"
+       aws_secret_key: "{{mypass}}"
+       
