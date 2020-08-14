@@ -12,7 +12,7 @@
 # day7
 <b>learning tensorflow and make a model for classification Fashion MNIST model</b>
 # day8 and day9
-<b> Start problem solving in python in hackerrank and got first start and classify MNIST_digit data set with k-nearest neighbour algorthim </b>
+<b> Start problem solving in python in hackerrank and got first star and classify MNIST_digit data set with k-nearest neighbour algorthim </b>
 
 
 
