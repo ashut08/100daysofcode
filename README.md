@@ -18,3 +18,5 @@
 <b> Learning ansible ec2 module launch ec2 instances with ansiblle-playbook.learn about ansible vault.    </b>
 # day11 and day12
 <b>Writing article docker part2 and learning Exploratory data analysis </b>
+# day13
+<b> Learning about descriptive statistics with python analyze with height and weight data set</b>
