@@ -20,5 +20,5 @@
 <b>Writing article docker part2 and learning Exploratory data analysis </b>
 # day13
 <b> Learning about descriptive statistics with python analyze with height and weight data set</b>
-# day14
-<b>Learn about descriptive statistics using scipy and statsmodels library</b>
+# day14_day15
+<b>Learn about descriptive statistics using scipy and statsmodels library and atstart learning flask</b>
