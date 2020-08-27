@@ -22,3 +22,5 @@
 <b> Learning about descriptive statistics with python analyze with height and weight data set</b>
 # day14_day15
 <b>Learn about descriptive statistics using scipy and statsmodels library and atstart learning flask</b>
+# day16
+<b> implementation of binary search and solving problems of python in Hackerrank and got second star</b>
