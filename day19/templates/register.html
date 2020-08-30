@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+   {% if title %}
+        <title>Ashu Tech Blog - {{ title }}</title>
+    {% else %}
+        <title>Ashu Tech</title>
+    {% endif %}
+</head>
+<body>
+     
+{%block content%}
+   <div class="content-section">
+       <form method="POST" action="">
+           {{form.hidden_tag()}}
+           <fieldset class="form-group">
+               <legend class="border-bottom">Sign Up Now</legend>
+               <div class="form-group">
+                   {{form.username.label(class="form-control-label ")}}
+                   {{form.username(class="form-control form-control-lg ")}}
+               </div>
+               <div class="form-group">
+                {{form.email.label(class="form-control-label ")}}
+                {{form.email(class="form-control form-control-lg ")}}
+            </div>
+            <div class="form-group">
+                {{form.password.label(class="form-control-label ")}}
+                {{form.username(class="form-control form-control-lg ")}}
+            </div>
+            <div class="form-group">
+                {{form.confirm_password.label(class="form-control-label ")}}
+                {{form.confirm_password(class="form-control form-control-lg ")}}
+            </div>
+           </fieldset>
+           <div class="form-group">
+               {{form.submit(class="btn btn-outline-info")}}
+           </div>
+       </form>
+
+   </div>
+   <div class="brder-top pt-3">
+       <small class="text-muted">
+           Already have an account?<a class="ml-2 " href="{{url_for('register')}}">Sign In</a>
+       </small>
+   </div>
+{% endblock content%}
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+
+
+</body>
+</html>
