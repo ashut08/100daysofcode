@@ -14,16 +14,16 @@ def register():
     form=RegForm()
     if form.validate_on_submit():
         flash('Account created for {form.username.data}!', 'success')
-        return redirect(url_for('home'))
+       
     return render_template('register.html',title='Registration',form=form)
 @app.route("/login",methods=['GET','POST'])
 def login():
     form=LoginForm() 
-    form = LoginForm()
+
     if form.validate_on_submit():
         if form.email.data == 'ashu08@gmail.com' and form.password.data == 'password':
-            flash('You have been logged in!',)
-            return redirect(url_for('home'))
+            flash('You have been logged in!','success')
+          
         else:
             flash('Login Unsuccessful. Please check username and password', 'danger')
     return render_template('login.html',title='login',form=form)

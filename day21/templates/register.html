@@ -14,7 +14,21 @@
     {% endif %}
 </head>
 <body>
-     
+  
+   
+    <div>
+        <div>
+            {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+              {% for category, message in messages %}
+                <div class="alert alert-{{ category }}">
+                  {{ message }}
+                </div>
+              {% endfor %}
+            {% endif %}
+          {% endwith %}
+         </div>
+    </div>
 {%block content%}
    <div class="content-section">
        <form method="POST" action="">
@@ -46,7 +60,7 @@
    </div>
    <div class="brder-top pt-3">
        <small class="text-muted">
-           Already have an account?<a class="ml-2 " href="{{url_for('register')}}">Sign In</a>
+           Already have an account?<a class="ml-2 " href="{{url_for('login')}}">Sign In</a>
        </small>
    </div>
 {% endblock content%}
