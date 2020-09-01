@@ -28,3 +28,5 @@
 <b>Implemnting predictve Analytics with tensorflow ,implementing movie recommandation system in tensorflow</b>
 # day19
 <b>Learnig flask-WTF libray and make a sign up form using flask</b>
+# day20
+<b> Upload pdf of Reinforcement learnig  theory part </b>
