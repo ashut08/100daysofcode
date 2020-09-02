@@ -32,3 +32,5 @@
 <b> Upload pdf of Reinforcement learnig  theory part </b>
 # day21
 <b> Implement login page using flask </b>
+# day22
+<b> Learn abot n-queen problem and implement 8-queen peoblem using python</b>
