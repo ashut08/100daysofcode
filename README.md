@@ -34,3 +34,5 @@
 <b> Implement login page using flask </b>
 # day22
 <b> Learn abot n-queen problem and implement 8-queen peoblem using python</b>
+# day23_day24
+<b> Learn more about reinforcement learning and make a simple calculator using flutter   </b>
