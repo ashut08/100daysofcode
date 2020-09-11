@@ -1,43 +1,46 @@
-# 100daysofcode
-<b> This repo contain my 100 days of code challenge</b>
-# day1
+# 100Daysofcode
+<b> This repo contain my 100 Days of code challenge</b>
+# Day1
 <b> Make a audio player in dart</b>
-# day2 and day3
+# Day2 and Day3
 <b> Learnig pre-processing data in data science</b>
-
-# day4
+# Day4
 <b>Exploring panadas Library</b>
-# day5 and day6
+# Day5 and Day6
 <b> Make a neural network to predict House Sales Price</b>
-# day7
+# Day7
 <b>learning tensorflow and make a model for classification Fashion MNIST model</b>
-# day8 and day9
+# Day8 and Day9
 <b> Start problem solving in python in hackerrank and got first star and classify MNIST_digit data set with k-nearest neighbour algorthim </b>
 
-# day10
+# Day10
 <b> Learning ansible ec2 module launch ec2 instances with ansiblle-playbook.learn about ansible vault.    </b>
-# day11 and day12
+# Day11 and Day12
 <b>Writing article docker part2 and learning Exploratory data analysis </b>
-# day13
+# Day13
 <b> Learning about descriptive statistics with python analyze with height and weight data set</b>
-# day14_day15
+# Day14_Day15
 <b>Learn about descriptive statistics using scipy and statsmodels library and atstart learning flask</b>
-# day16
+# Day16
 <b> implementation of binary search and solving problems of python in Hackerrank and got second star</b>
-# day17_day18
+# Day17_Day18
 <b>Implemnting predictve Analytics with tensorflow ,implementing movie recommandation system in tensorflow</b>
-# day19
+# Day19
 <b>Learnig flask-WTF libray and make a sign up form using flask</b>
-# day20
+# Day20
 <b> Upload pdf of Reinforcement learnig  theory part </b>
-# day21
+# Day21
 <b> Implement login page using flask </b>
-# day22
+# Day22
 <b> Learn abot n-queen problem and implement 8-queen peoblem using python</b>
-# day23_day24
+# Day23_Day24
 <b> Learn more about reinforcement learning and make a simple calculator using flutter   </b>
-# day25_day26
+# Day25_Day26
+<<<<<<< HEAD
 <b>learn about text processing,explored tensorflow-text library</b>
-# Day27_day28_day29
+# Day27_Day28_Day29
 <b>Learn more about Reinforcement Learning,Q-learning  and implement Q-learning for shortest path using python</b>
 
+=======
+learn about text preprocessing ,explored tensoeflow-text library.
+>>>>>>> f0387035c82bd47542d0c4d609fed5cf907e4c31
