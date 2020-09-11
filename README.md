@@ -36,3 +36,8 @@
 <b> Learn abot n-queen problem and implement 8-queen peoblem using python</b>
 # day23_day24
 <b> Learn more about reinforcement learning and make a simple calculator using flutter   </b>
+# day25_day26
+<b>learn about text processing,explored tensorflow-text library</b>
+# Day27_day28_day29
+<b>Learn more about Reinforcement Learning,Q-learning  and implement Q-learning for shortest path using python</b>
+
