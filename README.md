@@ -36,11 +36,11 @@
 # Day23_Day24
 <b> Learn more about reinforcement learning and make a simple calculator using flutter   </b>
 # Day25_Day26
-<<<<<<< HEAD
+
 <b>learn about text processing,explored tensorflow-text library</b>
 # Day27_Day28_Day29
 <b>Learn more about Reinforcement Learning,Q-learning  and implement Q-learning for shortest path using python</b>
 
-=======
-learn about text preprocessing ,explored tensoeflow-text library.
->>>>>>> f0387035c82bd47542d0c4d609fed5cf907e4c31
+
+
+
