@@ -39,7 +39,13 @@
 <b>learn about text processing,explored tensorflow-text library</b>
 # Day27_Day28_Day29
 <b>Learn more about Reinforcement Learning,Q-learning  and implement Q-learning for shortest path using python</b>
-
+# day31 to 35
+In these day i learn more about #flutter #firebase and #cnn.
+- ☑️learn About flutter #stream.
+- ☑️Implment simple sign in and sign out functionality with the help of firebase.
+- ☑️Also learn about #convolutionalneuralnetwork like LeNet5 ,AlexNet , ResNet and its architechture.
+- ☑️Learn about #transferlearning .
+- ☑️Learn about Data Augmentation
 
 
 
