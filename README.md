@@ -45,8 +45,7 @@ In these day i learn more about #flutter #firebase and #cnn.
 - ☑️Implment simple sign in and sign out functionality with the help of firebase.
 - ☑️Also learn about #convolutionalneuralnetwork like LeNet5 ,AlexNet , ResNet and its architechture.
 - ☑️Learn about #transferlearning .
-- ☑️Learn about Data Augmentation
-
-
+- ☑️Learn about Data Augmentation.
 # day36
 Exploring open source platform for Reinforcement Learning Retrieve_a_frisbee_from_lake_using_OPEN_AI_GYM
+
