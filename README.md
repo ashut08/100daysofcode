@@ -48,4 +48,5 @@ In these day i learn more about #flutter #firebase and #cnn.
 - ☑️Learn about Data Augmentation.
 # day36
 Exploring open source platform for Reinforcement Learning Retrieve_a_frisbee_from_lake_using_OPEN_AI_GYM
-
+# day37
+Learning  fundamental of web_scrapping exploring beautifulsoups libray.
