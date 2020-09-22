@@ -60,4 +60,4 @@ Learn some scrapy command
 - 2.parsing content
    - HTML PArsing-Use beatutiful soup library
    - DOM Parsing-Use framework such as scrapy
-   - Computer vision-Use <b>sikuki</b> its visual technology to automate GUI.
+   - Computer vision-Use <b>sikuli</b> its visual technology to automate GUI.
