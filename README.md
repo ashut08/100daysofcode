@@ -52,11 +52,12 @@ Exploring open source platform for Reinforcement Learning Retrieve_a_frisbee_fro
 Learning  fundamental of web_scrapping exploring beautifulsoups libray.
 # day38
 Learn more about web scrapping-
+Learn Difference between <b>Web Scrapping</b> and <b>Web Crawling</b>
+Learn some scrapy command
+
 - 1.Fetching content
     - HTTP Request
 - 2.parsing content
    - HTML PArsing-Use beatutiful soup library
    - DOM Parsing-Use framework such as scrapy
-   - Computer vision-Use <b>sikuki</b> its visual technology to automate GUI
-Learn Difference between <b>Web Scrapping</b> and <b>Web Crawling</b>
-Learn some scrapy command
+   - Computer vision-Use <b>sikuki</b> its visual technology to automate GUI.
