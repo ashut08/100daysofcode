@@ -61,3 +61,13 @@ Learn some scrapy command
    - HTML PArsing-Use beatutiful soup library
    - DOM Parsing-Use framework such as scrapy
    - Computer vision-Use <b>sikuli</b> its visual technology to automate GUI.
+# day39_day34
+Learn about type of SCrapy Spider
+
+- scrapy.spider
+- crawlSpider
+- XMLFeedSpider
+- CSVFeedSpider
+
+implement scrapping with scrapy.spider
+
