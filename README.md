@@ -70,4 +70,22 @@ Learn about type of SCrapy Spider
 - CSVFeedSpider
 
 implement scrapping with scrapy.spider
+# day41 and day42
+Learn web scraping with selenium-its set of tool and libraries that automate web browser action.
+There are four component of selenium-
+- Selenium IDE
+- Selenium RC
+- Selenium WebDriver
+- Selenium Grid
 
+Learn about Selenium Architecture.
+#### Learn about elements-
+Method to locate element by
+ - name
+ - id
+ - link text
+ - partial link  text
+ -  CSS selector
+ -  class name
+ - xPath
+Difference between Find element and Find elements
