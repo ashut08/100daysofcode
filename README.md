@@ -89,3 +89,15 @@ Method to locate element by
  -  class name
  - xPath
 Difference between Find element and Find elements
+
+# day43_44_45
+Learn about outlier and novalties and its implementation.
+- <b>Outlier</b>- Anamalous point in training dataset.
+- <b>Novelties</b>-Anamalous point in test dataset.
+
+Learn aboutlier detection technique-
+ - Local Outlier Factor(LOF)
+ -  Isolation Forest 
+ - Eliptic Envelope
+
+
