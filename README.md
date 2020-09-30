@@ -95,7 +95,7 @@ Learn about outlier and novalties and its implementation.
 - <b>Outlier</b>- Anamalous point in training dataset.
 - <b>Novelties</b>-Anamalous point in test dataset.
 
-Learn aboutlier detection technique-
+Learn aboutlier detection techniques-
  - Local Outlier Factor(LOF)
  -  Isolation Forest 
  - Eliptic Envelope
