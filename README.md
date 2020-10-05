@@ -99,5 +99,13 @@ Learn aboutlier detection techniques-
  - Local Outlier Factor(LOF)
  -  Isolation Forest 
  - Eliptic Envelope
-
+# da46_47_48
+Learn about Preparing text data for machine learning
+Reperesentation of text data in numeric form.
+Learn about Bag-of-words and Bag-of-n-gram model. 
+Implement Vectorizing text using-
+- Bag-of-words model
+- Bag-of-n-grams model
+- Tf-Idf Scores
+Also done hands on lab in google cloud , creating virtual machine under 30daysofgooglecloud trainig.
 
